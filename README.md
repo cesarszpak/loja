@@ -4,6 +4,6 @@
 
 Para rodar na máquina, necessário alterar o endereço no arquivo config.php
 
-...
+```
 define('URL', 'http://localhost/');
-...
+```
